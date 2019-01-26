@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"sk",
+				"skewX()"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"marg",
+				"margin\t(CirImage.css)"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"sha",
+				"shape-outside"
+			],
+			[
+				"borR",
+				"border-radius"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"bos",
+				"box-sizing"
+			],
+			[
+				"F",
+				"flex"
+			],
+			[
+				"pa",
+				"padding-top\t(CHome2.css)"
+			],
+			[
+				"CHO",
+				"CHome1.css\t(CHome1.php)"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"te",
+				"text\t(CHome.php)"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"po",
+				"position\t(CHome1.css)"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"b",
+				"bikes"
+			],
+			[
+				"col-",
+				"col-sm-3"
+			],
+			[
+				"conat",
+				"container-fluid"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wh",
+				"white\t(hom1.css)"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"onmo",
+				"onmousemove\tAttr"
+			],
+			[
+				"getEl",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"wi",
+				"width\t(home.php)"
+			],
+			[
+				"backg",
+				"background-image\t(home.php)"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"remo",
+				"removeChild\t( child: Node ): Node Node"
+			],
+			[
+				"repla",
+				"replaceChild\t( node: Node, child: Node ): Node Node"
+			],
+			[
+				"app",
+				"append\t( nodes_..: Node|DOMString ): void Element"
+			],
+			[
+				"vis",
+				"visibility\t = 'collapse' Style CSS"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"ch",
+				"checked\tAttr"
+			],
+			[
+				"input",
+				"input\tTag"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"butt",
+				"button\tTag"
+			],
+			[
+				"bu",
+				"button\t<button>"
+			],
+			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"tab",
+				"tab-pane"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"ta",
+				"tab-pane"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"data",
+				"data-target\t(home.php)"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"for",
+				"form1"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"anim",
+				"animation-direction"
+			],
+			[
+				"anima",
+				"animation-duration"
+			],
+			[
+				"col-s",
+				"col-sm-12"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"border-",
+				"border-top-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"con",
+				"container-fluid\t(bhome.php)"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"iline",
+				"inline-block"
+			],
+			[
+				"backge",
+				"background-image"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bacground-c",
+				"background-color"
+			],
+			[
+				"ser",
+				"sans-serif"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 381.0
+	},
+	"console":
+	{
+		"height": 72.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/webapp/CoachingCorner/WaveBack.css",
+		"/C/wamp64/www/webapp/CoachingCorner/BlurScroll.css",
+		"/C/wamp64/www/webapp/CoachingCorner/BreImg.css",
+		"/C/wamp64/www/webapp/CoachingCorner/BlurScroll.php",
+		"/C/wamp64/www/webapp/CoachingCorner/BreImg.php",
+		"/C/wamp64/www/webapp/CoachingCorner/WaveBack.php",
+		"/C/wamp64/www/webapp/CoachingCorner/CardHov.php",
+		"/C/wamp64/www/webapp/CoachingCorner/OpenImg.php",
+		"/C/wamp64/www/webapp/CoachingCorner/skewedpara.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CirImage.css",
+		"/C/wamp64/www/webapp/CoachingCorner/OpenImg.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CardHov.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CirImage.php",
+		"/C/wamp64/www/webapp/CoachingCorner/skewedpara.php",
+		"/C/wamp64/www/webapp/CoachingCorner/im3d.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome2.css",
+		"/C/wamp64/www/webapp/CoachingCorner/chomek.css",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome1.css",
+		"/C/wamp64/www/webapp/CoachingCorner/skewedeffect.css",
+		"/C/wamp64/www/webapp/CoachingCorner/ImageH.css",
+		"/C/wamp64/www/webapp/CoachingCorner/ImageH.php",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome.php",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome1.php",
+		"/C/wamp64/www/webapp/CoachingCorner/skewedeffect.php",
+		"/C/wamp64/www/webapp/CoachingCorner/CHome2.php",
+		"/C/wamp64/www/webapp/CoachingCorner/image/a3.jpeg",
+		"/C/wamp64/www/webapp/CoachingCorner/im3D.html",
+		"/C/wamp64/www/webapp/CoachingCorner/js/jquery.js",
+		"/C/wamp64/www/webapp/Revision/bikeweb/bike_home.css",
+		"/C/wamp64/www/webapp/Revision/bikeweb/bike_home.php",
+		"/C/wamp64/www/webapp/Revision/flowerweb/fed.php",
+		"/C/wamp64/www/webapp/Revision/flowerweb/feedback.php",
+		"/C/wamp64/www/webapp/Revision/flowerweb/hom1.js",
+		"/C/wamp64/www/webapp/Revision/flowerweb/css/hom1.css",
+		"/C/wamp64/www/webapp/Revision/flowerweb/home.php",
+		"/C/wamp64/www/webapp/Revision/flowerweb/hom1.php",
+		"/C/wamp64/www/webapp/Revision/flowerweb/home.css",
+		"/C/wamp64/www/webapp/Revision/flowerweb/js/bootstrap.js",
+		"/C/Users/user/Desktop/flowerweb/home.php",
+		"/C/wamp64/www/webapp/Revision/login/bhome.php",
+		"/C/wamp64/www/webapp/Revision/login/bhome.css",
+		"/C/Users/user/Desktop/bootstrap/js/bootstrap.js",
+		"/C/wamp64/www/webapp/Revision/login/home.php",
+		"/C/Users/user/Desktop/bootstrap/home.html",
+		"/C/Users/user/Desktop/bootstrap/css/home.css",
+		"/C/Users/user/Desktop/bootstrap/home.css",
+		"/C/wamp641/www/hospital/admindb.php",
+		"/C/wamp641/www/hospital/admin-panel.php",
+		"/C/wamp641/www/hospital/indexdb.php",
+		"/C/wamp641/www/hospital/index.css",
+		"/C/wamp641/www/hospital/admin.css",
+		"/C/wamp641/www/hospital/admin.php",
+		"/C/wamp641/www/hospital/patiendetails.php",
+		"/C/wamp641/www/hospital/index.php",
+		"/C/wamp641/www/hospital/showpatient.php",
+		"/C/Users/user/Documents/htmlcssproject/bootstrapProject/bootstrap.html",
+		"/C/Users/user/Documents/htmlcssproject/justdial/justdial.css",
+		"/C/Users/user/Documents/htmlcssproject/justdial/justdial.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/furniture.html",
+		"/C/Users/user/Documents/htmlcssproject/HorizantalNavigationBarProject/nav.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/specialdeal.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/specialdeal.css",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/contactus.css",
+		"/C/Users/user/Documents/htmlcssproject/furnituregallery/electronicsgallery.html",
+		"/C/Users/user/Documents/htmlcssproject/furnituregallery/electronicsgallery.css",
+		"/C/Users/user/Documents/htmlcssproject/furnituregallery/furnituregallery.css",
+		"/C/Users/user/Documents/htmlcssproject/furnituregallery/furnituregallery.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/furnituregallery.css",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/furnituregallery.html",
+		"/C/Users/user/Documents/htmlcssproject/imagegallery&imageslideproject/funiture.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/furniture.css",
+		"/C/Users/user/Documents/htmlcssproject/HorizantalNavigationBarProject/nav.css",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/contactus.html",
+		"/C/Users/user/Documents/htmlcssproject/furnitureproject/image/f11.jpg",
+		"/C/Users/user/Documents/htmlcssproject/imageslider/imageslider.css",
+		"/C/Users/user/Documents/htmlcssproject/imageslider/imageslider.html",
+		"/C/Users/user/Documents/htmlcssproject/imagegallery&imageslideproject/gallery.css",
+		"/C/Users/user/Documents/htmlcssproject/imagegallery&imageslideproject/gallery.html",
+		"/C/Users/user/Documents/htmlcssproject/imagegallery&imageslideproject/imageslide.html",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/html.css",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/practiceOfJavascript.js",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/practiceOfJavascript.css",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/practiceOfJavascript.html",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/hsp1.js",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/hsp1.html",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/home.html",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/dispaly.html",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/js",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/display.css",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/footer.css",
+		"/C/Users/user/Documents/htmlcssproject/ecommerce project/footer.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conditional.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HorizantalNavigationBarProject\\nav.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
